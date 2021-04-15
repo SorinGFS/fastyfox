@@ -2,3 +2,5 @@
 
 Test the [LIVE DEMO](https://soringfs.github.io/fastyfox/)
 ... and of course, dont forget to give **a star!**
+
+![score](https://user-images.githubusercontent.com/25417015/114903489-88ba0800-9e1f-11eb-8004-7449abf4c277.png)
